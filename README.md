@@ -7,7 +7,7 @@ Lærerenes oppgaver utført impoenerende enkelt
 
 - [Installation](installation.md)
 - [Contributions](contributions.md)
-- [Plug-Ins](pligins.md)
+- [Plug-Ins](plugins.md)
 
 ## License
 [MIT](LICENSE)
