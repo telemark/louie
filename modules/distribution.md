@@ -31,4 +31,4 @@
 - SvarUT
     - [node-svarut](https://github.com/telemark/node-svarut)
     
-[![Illustrasjon](../images/louie-distribution.png)]
+![Illustrasjon](../images/louie-distribution.png)
