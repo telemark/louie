@@ -15,8 +15,12 @@ Varslene skal kopieres, pakkes, legges i posthyller osv. Totalt snakker man om m
 Utfra elevens fødselsnummer kan man hente folkeregistrert adresse og eventuelt foresatte fra dsf (Det sentrale folkeregisteret).
 Videre kan man gjøre selve utsendelsen via SvarUt.
 
+[Beskrivelse av prosess/moduler](../modules/distribution.md)
+
 ## Arkivering
 Det manuelle arbeidet omkring arkivering når skjeamene kommer inn på papir er estimert til 15 minutter pr søknad.
+
+[Beskrivelse av prosess/moduler](../modules/archive.md)
 
 ## Gevinster
 Omfanget for varsler i Telemark fylkeskommune er estimert til 7500 pr år.
