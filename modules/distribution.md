@@ -6,10 +6,13 @@ Roy
     Adresseoppslag
         input: fødselsnummer, foresatte (true/false)
         dsf
+            [node-dsf]()
         foresatte
+            [node-def]()
         hemmelig
-            dsf
-            360
+            stringsjekk mot dsf
+            kontaktperson 360
+                [node-p360]()
         output:
             Fødselsnummer
             Navn (firstname/lastname)
