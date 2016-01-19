@@ -1,5 +1,7 @@
 # Blogg
 
+Daglige rapporter fra utviklerteamet [maccyber](https://github.com/maccyber) og [zrrrzzt](https://github.com/zrrrzzt)
+
 # Januar 2016
 - [19. Januar 2016](2016-01/2016-01-19.md)
 - [18. Januar 2016](2016-01/2016-01-18.md)
