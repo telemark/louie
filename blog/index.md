@@ -3,6 +3,7 @@
 Daglige rapporter fra utviklerteamet [maccyber](https://github.com/maccyber) og [zrrrzzt](https://github.com/zrrrzzt)
 
 # Januar 2016
+- [25. Januar 2016](2016-01/2016-01-25.md)
 - [22. Januar 2016](2016-01/2016-01-22.md)
 - [21. Januar 2016](2016-01/2016-01-21.md)
 - [20. Januar 2016](2016-01/2016-01-20.md)
