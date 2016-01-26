@@ -1,6 +1,6 @@
 # Blogg
 
-Daglige rapporter fra utviklerteamet [maccyber](https://github.com/maccyber) og [zrrrzzt](https://github.com/zrrrzzt)
+Rapporter fra utviklerteamet [maccyber](https://github.com/maccyber) og [zrrrzzt](https://github.com/zrrrzzt) omkring utviklingen av [Louie](https://github.com/telemark/louie).
 
 # Januar 2016
 - [25. Januar 2016](2016-01/2016-01-25.md)
