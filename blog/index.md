@@ -3,6 +3,7 @@
 Rapporter fra utviklerteamet [maccyber](https://github.com/maccyber) og [zrrrzzt](https://github.com/zrrrzzt) omkring utviklingen av [Louie](https://github.com/telemark/louie).
 
 # Januar 2016
+- [28. Januar 2016](2016-01/2016-01-28.md)
 - [25. Januar 2016](2016-01/2016-01-25.md)
 - [22. Januar 2016](2016-01/2016-01-22.md)
 - [21. Januar 2016](2016-01/2016-01-21.md)
