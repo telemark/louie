@@ -1,7 +1,7 @@
 # Louie
-Louie er en samlebetegnelse for verktøy og moduler som utvikles av Telemark fylkeskommune.
+Louie er en samlebetegnelse for digitale løsninger utviklet av Telemark fylkeskommune.
 
-I første omgang skal det utvikles en løsning som forenkler utsendelsen av varsler til elever i den videregående skolen.
+I disse dager lages det en løsning som skal forenkle utsendelsen av varsler til elever i den videregående skolen.
 
 [v 1.0.0 - The Kingsmen](versions/the.kingsmen.md) er planlagt å settes i produksjon uke 09 2016.
 
