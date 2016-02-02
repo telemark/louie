@@ -4,6 +4,7 @@ Nesten daglige rapporter fra utviklerteamet [maccyber](https://github.com/maccyb
 
 # Februar 2016
 - [01. februar 2016](2016/02/2016-02-01.md)
+- [02. februar 2016](2016/02/2016-02-02.md)
 
 # 2016
 - [Februar](2016/02/2016-02.md)
