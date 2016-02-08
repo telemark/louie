@@ -3,6 +3,7 @@
 Nesten daglige rapporter fra utviklerteamet [maccyber](https://github.com/maccyber) og [zrrrzzt](https://github.com/zrrrzzt) omkring utviklingen av [Louie](https://github.com/telemark/louie).
 
 # Februar 2016
+- [08. februar 2016](2016/02/2016-02-08.md)
 - [04. februar 2016](2016/02/2016-02-04.md)
 - [03. februar 2016](2016/02/2016-02-03.md)
 - [02. februar 2016](2016/02/2016-02-02.md)
