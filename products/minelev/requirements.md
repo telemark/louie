@@ -16,7 +16,7 @@ Før du går i gang med installasjonen av MinElev, må du ha på følgende på p
 * [DSF](https://www.infotorg.no)
   * Tilgang til metoden *hentForeldre*
   * Tilgang til å søke med kun personnummer
- * AD/LDAP(s)-server
+* AD/LDAP(s)-server
    * URL til LDAP(s) server
    * DN til bruker med leserettigheter
    * Passord
